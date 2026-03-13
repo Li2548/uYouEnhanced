@@ -300,6 +300,8 @@
 "HIDE_INDICATORS_DESC" = "Hides all Indicators that are currently in the App.";
 "FIX_CASTING" = "修复投屏功能";
 "FIX_CASTING_DESC" = "改变特定 A/B flags（灰度测试选项） 以便修复投屏功能。";
+"NEW_SETTINGS_UI" = "使用新版设置UI";
+"NEW_SETTINGS_UI_DESC" = "通过调整某些项目启用新版设置UI。";
 
 "DEFAULT" = "默认";
 "CUSTOM_COLOR" = "自定义颜色";
