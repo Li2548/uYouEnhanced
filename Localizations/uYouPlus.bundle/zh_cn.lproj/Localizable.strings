@@ -288,11 +288,11 @@
 "STICK_NAVIGATION_BAR" = "Stick Navigation Bar";
 "STICK_NAVIGATION_BAR_DESC" = "This will make the Navigation Bar stay when scrolling throughout the App.";
 "HIDE_COMMUNITY_POSTS" = "隐藏 Community Posts";
-"HIDE_COMMUNITY_POSTS_DESC" = "隐藏the Community Posts. 更改后需要重启应用。";
+"HIDE_COMMUNITY_POSTS_DESC" = "隐藏Community Posts. 更改后需要重启应用。";
 "HIDE_HEADER_LINKS_UNDER_PROFILE" = "隐藏 Header Links under channel profile";
 "HIDE_HEADER_LINKS_UNDER_PROFILE_DESC" = "隐藏sthe Header Links under any channel profile.";
-"AUTO_HIDE_HOME_INDICATOR" = "自动隐藏 Home Indicator";
-"AUTO_HIDE_HOME_INDICATOR_DESC" = "Automatically 隐藏s the iOS Home Indicator when not interacting with the App.";
+"AUTO_HIDE_HOME_INDICATOR" = "自动隐藏主页面小白条";
+"AUTO_HIDE_HOME_INDICATOR_DESC" = "当不与应用程序交互时自动隐藏 iOS 自动隐藏主页面小白条。";
 "HIDE_INDICATORS" = "隐藏 Indicators";
 "HIDE_INDICATORS_DESC" = "Hides all Indicators that are currently in the App.";
 "FIX_CASTING" = "修复投屏功能";
