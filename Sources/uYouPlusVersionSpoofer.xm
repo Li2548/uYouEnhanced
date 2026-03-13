@@ -6,7 +6,7 @@ typedef struct {
 } VersionMapping;
 
 static VersionMapping versionMappings[] = {
-		{0, @"21.10.2"},
+    {0, @"21.10.2"},
     {1, @"21.09.3"},
     {2, @"21.09.2"},
     {3, @"21.08.3"},
