@@ -75,6 +75,9 @@
 "HIDE_HUD_MESSAGES" = "隐藏系统提醒";
 "HIDE_HUD_MESSAGES_DESC" = "例如：“已启用/停用字幕”、“已开启视频循环播放”等。";
 
+"REPLACE_YT_DOWNLOAD_WITH_UYOU" = "用uYou的下载功能替换YouTube原生下载功能";
+"REPLACE_YT_DOWNLOAD_WITH_UYOU_DESC" = "";
+
 "HIDE_PAID_PROMOTION_CARDS" = "隐藏付费宣传内容提醒横幅";
 "HIDE_PAID_PROMOTION_CARDS_DESC" = "隐藏出现在部分视频中的“包含付费宣传内容”横幅。";
 
