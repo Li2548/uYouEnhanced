@@ -689,7 +689,7 @@ NSString *cacheDescription = [NSString stringWithFormat:@"%@", GetCacheSize()];
         accessibilityIdentifier:nil
         detailTextBlock:^NSString *() {
             switch (appVersionSpoofer()) {
-								case 0: return @"v21.10.2";
+                case 0: return @"v21.10.2";
                 case 1: return @"v21.09.3";
                 case 2: return @"v21.09.2";
                 case 3: return @"v21.08.3";
@@ -825,7 +825,7 @@ NSString *cacheDescription = [NSString stringWithFormat:@"%@", GetCacheSize()];
         }
         selectBlock:^BOOL (YTSettingsCell *cell, NSUInteger arg1) {
             NSArray <YTSettingsSectionItem *> *rows = @[
-								SPOOFER_VERSION(@"v21.10.2", 0),
+                SPOOFER_VERSION(@"v21.10.2", 0),
                 SPOOFER_VERSION(@"v21.09.3", 1),
                 SPOOFER_VERSION(@"v21.09.2", 2),
                 SPOOFER_VERSION(@"v21.08.3", 3),
